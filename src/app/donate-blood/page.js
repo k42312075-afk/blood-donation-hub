@@ -181,6 +181,7 @@ const Page = () => {
                 className="input border rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-red-600"
               >
                 <option value="">Select City</option>
+                <option>Abboattabad</option>
                 <option>Lahore</option>
                 <option>Karachi</option>
                 <option>Islamabad</option>

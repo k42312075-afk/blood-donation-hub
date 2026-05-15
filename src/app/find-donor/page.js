@@ -90,7 +90,11 @@ export default function FindDonorPage() {
                 className="w-full border rounded px-3 py-2 focus:ring-2 focus:ring-red-600"
               >
                 <option value="">All Cities</option>
-                <option>Lahore</option><option>Karachi</option>
+                <option>Abbottabad</option>
+                <option>Peshawar</option>
+                <option>Hripur</option>
+                <option>Lahore</option>
+                <option>Karachi</option>
                 <option>Islamabad</option><option>Rawalpindi</option>
                 {/* ... other cities */}
               </select>
